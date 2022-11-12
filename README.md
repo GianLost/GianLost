@@ -4,13 +4,13 @@
 
 <h3>Languages:</h3>
 
-<div>
+<div style="display: flex; flex-direction: row">
   <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
   <p>C#</p>
   <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <p>JavaScript</p>
-  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <p>React-Native</p>
-  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <p>MySql</p>
  </div>
