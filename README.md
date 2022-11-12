@@ -5,5 +5,5 @@
 <h3>Languages:</h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
  </div>
