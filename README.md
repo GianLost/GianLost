@@ -1,3 +1,9 @@
 <h3> Hello!! My name is Gianluca, but you can just call me Gian ... I'm 23 years old and..</h3>
 
-<p>Currently i'm learning a little about technologies, i'm so in love to this world</p>
+<p>Currently I started to study a little about web and mobile programming, and well i'm fascinated.</p>
+
+<h3>Languages:</h3>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+ </div>
