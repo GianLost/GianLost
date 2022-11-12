@@ -5,5 +5,12 @@
 <h3>Languages:</h3>
 
 <div>
-  <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <p>C#</p>
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <p>JavaScript</p>
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <p>React-Native</p>
+  <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <p>MySql</p>
  </div>
