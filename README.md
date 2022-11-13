@@ -1,12 +1,11 @@
 ## 👋 Hello, my name is Gianluca, but you can just call me Gian ^^
 <p>Tecnology Enthusiast, Student and Computer Technician</p>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=Gianluca-Vialli&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-Vialli&theme=tokyonight&hide=html&layout=compact&langs_count=6" />
-</a>
+<div>
+<a href="https://github.com/Gianluca-Vialli">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-Vialli&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sGianluca-Vialli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 👨🏻‍💻 Skills 
 <p align="left">
