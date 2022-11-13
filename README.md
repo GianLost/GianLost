@@ -1,6 +1,7 @@
 ## 👋 Hello, my name is Gianluca, but you can just call me Gian ^^
+
+## 👨🏻‍💻
 <p>Tecnology Enthusiast, Student and Computer Technician</p>
-<br>
 
 <div>
 <a href="https://github.com/Gianluca-Vialli">
