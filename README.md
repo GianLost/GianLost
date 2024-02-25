@@ -1,4 +1,4 @@
-## 👋 Hello, my name is Gianluca, but you can just call me Gian ^^
+## 👋 Hi, I'm Gianluca, but you can call me Gian. ^^
 
 <p>Tecnology Enthusiast, Student and Computer Technician</p>
 
