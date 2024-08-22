@@ -1,38 +1,60 @@
-## 👋 Hi, I'm Gianluca, but you can call me Gian. ^^
+# 👋 Hi, I'm Gianluca (Gian)
 
-<p>Tecnology Enthusiast, Student and Computer Technician</p>
+**Systems Analysis and Development student at UNIPAM, Technology Enthusiast and IT Technician**
 
-<div>
-<a href="https://github.com/GianLost">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianLost&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GianLost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+Welcome to my GitHub profile! I'm passionate about learning and developing in the world of technology, constantly exploring new skills and improving my craft. Here, you'll find some of my projects, contributions, and a little bit about what I'm up to.
 
-## 👨🏻‍💻 Skills 
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianLost&layout=compact&langs_count=7&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianLost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+---
+
+## 👨🏻‍💻 Skills
+
+I'm proficient in several technologies and tools, with a particular focus on the following:
+
 <p align="left">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30">
 </p>
 
-## 📲 Contact 
-<div>
-<a href = ""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://instagram.com/dailyseesharp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@gianlost1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gianluca-vialli-5a2a8a226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
+
+## 📲 Contact
+
+Feel free to reach out to me through any of the following platforms:
+
+- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dailyseesharp/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-vialli-5a2a8a226/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gianlost1999@gmail.com)
+
+---
+
+## 🌱 What I'm Currently Learning
+
+I'm always learning something new! Currently, I'm diving deeper into:
+
+- **Advanced .NET Development**
+- **APIs and Cloud Computing with Azure**
+- **Frontend Frameworks like React and Angular**
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaboration on exciting projects, especially those that involve C#, .NET, or web development. If you have an interesting idea or project, let's get in touch!
+
+---
+
+Thanks for visiting my profile! 😊
