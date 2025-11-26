@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about learning and developing in th
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianLost&layout=compact&langs_count=7&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianLost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GianLost&layout=compact&langs_count=7&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianLost&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
 
 ---
 
