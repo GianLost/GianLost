@@ -35,6 +35,7 @@ I'm proficient in several technologies and tools, with a particular focus on the
 
 Feel free to reach out to me through any of the following platforms:
 
+- [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gvsolutions.site)
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gianluca.vialli_ufo/)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-vialli-5a2a8a226/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gianlost1999@gmail.com)
