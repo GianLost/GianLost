@@ -1,8 +1,9 @@
-<h1 align="center">Olá, eu sou Gianluca Vialli 👋</h1>
+<h1 align="center">Olá, eu sou Gian 👋</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia de Software</strong> •
   <strong>Desenvolvedor Back-end .NET</strong> •
+  <strong>Desenvolvedor do portal Gv Solutions - UFO TECHLAND</strong> •
   <strong>Operador de Sistemas</strong>
 </p>
 
